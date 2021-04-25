@@ -12,8 +12,8 @@ The goal of this project was to look at current code for the Horiseon website, a
 6. Edited title element to be concise
 
 ## Links
-Link to website </br>
-Link to repo
+[Link to Website](https://johnlanni619.github.io/horiseon-lithub/) </br>
+[Link to Repository](https://github.com/JohnLanni619/horiseon-lithub)
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/82123623/116005496-30c89180-a5d5-11eb-9d7f-f5dcbfa49a51.png)
