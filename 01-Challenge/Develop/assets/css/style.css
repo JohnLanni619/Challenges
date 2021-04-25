@@ -1,3 +1,4 @@
+/* Applies to everything  */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header elements  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Nav elements  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +43,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* End nav styling  */
 
 a {
     color: #ffffff;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero banner  */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +74,8 @@ p {
     margin-left: 25px;
 }
 
+
+/* Main Section  */
 main {
     width: 75%;
     display: inline-block;
@@ -93,6 +100,7 @@ main {
     font-size: 36px;
 }
 
+/* Aside  */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +128,8 @@ aside {
     max-width: 150px;
 }
 
+
+/* Footer  */
 footer {
     padding: 30px;
     clear: both;
