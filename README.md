@@ -11,8 +11,12 @@ The goal of this project was to look at current code for the Horiseon website, a
 5. Ensured that order of header elements was sequential
 6. Edited title element to be concise
 
+## Links
+Link to website </br>
+Link to repo
+
 ## Screenshot
-![Horiseon Website](https://courses.bootcampspot.com/courses/648/files/560557/preview)
+![image](https://user-images.githubusercontent.com/82123623/116005496-30c89180-a5d5-11eb-9d7f-f5dcbfa49a51.png)
 
 ## About Me
-
+I'm an aspiring full-stack web developer, currently working through the Rutgers Coding Bootcamp. When I'm not studying coding, I'm working as a personal trainer and spending time with my 3 year old son.
